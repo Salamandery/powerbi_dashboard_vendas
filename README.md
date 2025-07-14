@@ -69,12 +69,4 @@ Dashboard interativo de vendas desenvolvido no **Power BI**, utilizando dados re
 ---
 
 ## 👤 Autor
-<div align="center">
-  <b>Rodolfo M. F. Abreu</b>  
-  <a href="https://github.com/Salamandery">@Salamandery</a>
-</div>
-
----
-
-## 👤 Autor
 by **Rodolfo M. F. Abreu**
